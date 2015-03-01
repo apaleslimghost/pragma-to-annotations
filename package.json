@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/quarterto/pragma-to-annotations/issues"
   },
-  "homepage": "https://github.com/quarterto/pragma-to-annotations"
+  "homepage": "https://github.com/quarterto/pragma-to-annotations",
+  "dependencies": {
+    "fn-pragma": "^1.0.0"
+  }
 }
